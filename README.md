@@ -1,10 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/wildvine)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/wildvine?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/wildvine?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/6Dj881BJ5kw?style=social)](https://youtu.be/6Dj881BJ5kw)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/AbidHussainOFFICIAL/wildvine)
+  ![GitHub stars](https://img.shields.io/github/stars/AbidHussainOFFICIAL/wildvine?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/AbidHussainOFFICIAL/wildvine?style=social)
 
   <br />
   <br />
@@ -13,7 +11,7 @@
 
   Wildvine is a fully responsive charity website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/wildvine/"><strong>➥ Live Demo</strong></a>
+  <a href="https://AbidHussainOFFICIAL.github.io/wildvine/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -36,18 +34,14 @@ To run **Wildvine** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/wildvine.git
+sudo git clone https://github.com/AbidHussainOFFICIAL/wildvine.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/wildvine.git
+git clone https://github.com/AbidHussainOFFICIAL/wildvine.git
 ```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ### License
 
